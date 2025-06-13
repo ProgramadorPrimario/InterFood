@@ -9,6 +9,7 @@ body{
 }
 
 .barra{
+    font-family: monospace
     list-style: none;
     padding: 0;
     width: 100%;
@@ -62,10 +63,17 @@ body{
 
 .uno{
     font-size: 30px;
+    font-family: monospace;
 }
 
 .dos{
     font-size: 30px;
+    font-family:monospace
+}
+
+.tres{
+    font-size: 20px;
+    font-family: monospace;
 }
 
 .mini{
@@ -102,9 +110,22 @@ body{
 
 .con{
     text-align: right;
-    font-size: 30px;
+    font-size: 25px;
     width: 600px;
     float: right;
     position: relative;
     padding: -100px;
+    border-radius: 500px;
+    float: right;
+    margin-right: 30px;
+    background-color: white;
 }
+
+.muestra{
+    height: 300px;
+    width: 300px;
+}
+#contactanos{
+    
+}
+
