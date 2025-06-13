@@ -1,0 +1,15 @@
+.barra{
+background-image: url(/imagenes/barra.png);
+
+}
+
+.input-box{
+background-position: center;
+background-repeat: no-repeat;
+display: flex;
+}
+
+body{
+    background-image: url(../imagenes/fondo.png);
+
+}
